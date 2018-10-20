@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#1E1240',
   },
   inputContainer:{
-    flex: 8,,
+    flex: 8,
     backgroundColor: '#3D0075',
   },
   resultText:{
